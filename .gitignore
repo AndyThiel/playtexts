@@ -1,0 +1,9 @@
+*.iml
+/playtexts-client/node_modules
+/.idea
+/playtexts-server/src/main/webapp/dist/build.js
+/playtexts-server/src/main/webapp/dist/build.js.map
+/playtexts-client/dist/build.js
+/playtexts-client/dist/build.js.map
+/playtexts-server/target
+/playtexts-client/target
