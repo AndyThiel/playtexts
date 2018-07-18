@@ -1,4 +1,4 @@
 playtexts
 =========
 
-JavaScript library that lets you play texts as videos and related tools.
+Client and Server component hostable in WildFly environments with a DataSource called playtextsDS.
